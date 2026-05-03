@@ -72,6 +72,7 @@ ams/
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
 - [Node.js 18+](https://nodejs.org)
 - MySQL running locally on port `3306`
+- Git (to clone the repository)
 
 ### 1. Configure the database
 

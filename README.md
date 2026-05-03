@@ -1,5 +1,7 @@
 # AMS_26967 — ATM Management System
 
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react) ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql) ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+
 A full-stack ATM simulation built with **.NET 10** (Web API) and **React 19** (Vite). It supports card insertion, PIN authentication with lockout, deposits, withdrawals, transfers, receipts, and reporting — all secured with JWT.
 
 > Built as part of the AMS_26967 coursework project.

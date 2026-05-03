@@ -250,3 +250,9 @@ All pages except Login are protected — unauthenticated users are redirected to
 ## Author
 
 **Mugisha Julien** — AMS_26967
+
+---
+
+## License
+
+This project is for academic and demonstration purposes.

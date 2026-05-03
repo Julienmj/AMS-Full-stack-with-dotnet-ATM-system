@@ -101,6 +101,8 @@ dotnet run
 API runs at `http://localhost:5236`  
 Swagger UI at `http://localhost:5236/swagger`
 
+> Tip: You can also use `dotnet watch` for hot reload during development.
+
 ### 3. Run the frontend
 
 ```bash

@@ -219,6 +219,11 @@ Configured in `appsettings.json`:
 }
 ```
 
+The token is passed in the `Authorization` header as a Bearer token:
+```
+Authorization: Bearer <your_token>
+```
+
 > Change the `Key` before deploying to production.
 
 ---

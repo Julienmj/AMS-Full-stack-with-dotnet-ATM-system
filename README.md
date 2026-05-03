@@ -113,6 +113,8 @@ npm run dev
 
 Frontend runs at `http://localhost:5173`
 
+> Make sure the backend is running before starting the frontend.
+
 ---
 
 ## API Endpoints

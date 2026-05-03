@@ -128,6 +128,11 @@ No authentication required.
 
 Returns a JWT token on success. Tracks failed PIN attempts — account is **blocked after 3 wrong attempts**.
 
+Example success response:
+```json
+{ "token": "<jwt>", "message": "Card accepted. Welcome!" }
+```
+
 ---
 
 ### Account *(requires JWT)*

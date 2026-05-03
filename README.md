@@ -182,6 +182,8 @@ Example receipt response:
 
 ### Admin *(no authentication)*
 
+> These endpoints are open — intended for use via Swagger during development only. Do not expose in production.
+
 | Method | Endpoint | Description |
 |---|---|---|
 | GET | `/api/admin/accounts` | List all accounts |

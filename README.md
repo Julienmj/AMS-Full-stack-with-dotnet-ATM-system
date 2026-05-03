@@ -243,6 +243,8 @@ Authorization: Bearer <your_token>
 
 All pages except Login are protected — unauthenticated users are redirected to `/`.
 
+> The JWT token is stored in `localStorage` and read by `AuthContext.jsx` on every page load.
+
 ---
 
 ## Author

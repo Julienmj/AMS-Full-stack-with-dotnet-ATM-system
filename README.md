@@ -67,6 +67,12 @@ ams/
 
 ## Getting Started
 
+> Clone the repo first:
+> ```bash
+> git clone https://github.com/Julienmj/AMS-Full-stack-with-dotnet-ATM-system.git
+> cd AMS-Full-stack-with-dotnet-ATM-system
+> ```
+
 ### Prerequisites
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)

@@ -203,6 +203,8 @@ Example receipt response:
 
 To unblock an account, use the Admin panel in Swagger to reset the account.
 
+> Failed attempts counter resets to `0` automatically on a successful login.
+
 ---
 
 ## JWT Configuration

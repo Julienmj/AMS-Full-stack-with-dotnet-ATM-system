@@ -16,6 +16,8 @@ A full-stack ATM simulation built with **.NET 10** (Web API) and **React 19** (V
 | Frontend | React 19, React Router v7, Vite 8 |
 | API Docs | Swagger / OpenAPI |
 | Database | MySQL |
+| Port (API) | `http://localhost:5236` |
+| Port (UI) | `http://localhost:5173` |
 
 ---
 

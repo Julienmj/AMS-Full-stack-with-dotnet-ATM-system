@@ -155,6 +155,20 @@ Example success response:
 All transaction responses include a receipt object and updated balance.  
 Failed transactions (e.g. insufficient funds) are recorded in the DB with a `Failed` status and reason.
 
+Example receipt response:
+```json
+{
+  "receiptNo": "RCP-000001",
+  "date": "2025-01-01 10:00:00",
+  "accountHolder": "Mugisha Julien",
+  "accountNumber": "26967",
+  "transactionType": "Deposit",
+  "amount": 500,
+  "balanceAfter": 5500,
+  "status": "Success"
+}
+```
+
 ---
 
 ### Reports *(requires JWT)*

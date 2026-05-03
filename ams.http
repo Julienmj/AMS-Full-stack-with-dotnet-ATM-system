@@ -1,0 +1,6 @@
+@ams_HostAddress = http://localhost:5236
+
+GET {{ams_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

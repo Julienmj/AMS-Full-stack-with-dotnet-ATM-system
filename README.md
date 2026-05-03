@@ -259,6 +259,8 @@ All pages except Login are protected — unauthenticated users are redirected to
 
 **Mugisha Julien** — AMS_26967
 
+GitHub: [@Julienmj](https://github.com/Julienmj)
+
 ---
 
 ## License

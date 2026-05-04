@@ -4,7 +4,7 @@
 
 A full-stack ATM simulation built with **.NET 10** (Web API) and **React 19** (Vite). It supports card insertion, PIN authentication with lockout, deposits, withdrawals, transfers, receipts, and reporting — all secured with JWT.
 
-> Built as part of the AMS_26967 coursework project. nzamurerera
+> Built as part of the AMS_26967 coursework project. nzamurerer
 
 ---
 

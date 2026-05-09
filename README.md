@@ -1,4 +1,4 @@
-# AMS_26967 — ATM Management System fina e
+# AMS_26967 — ATM Management System fina 
 
 ![.NET](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet) ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react) ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql) ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 
